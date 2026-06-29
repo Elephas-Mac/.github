@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="https://prod.superblogcdn.com/site_cuid_cl495vqej08071jpawt8inf39/images/image-cp-1746770760827-compressed.png" alt="Elephas — AI writing assistant for macOS for macOS" width="780"/></p>
+<p align="center"><img src="https://prod.superblogcdn.com/site_cuid_cl495vqej08071jpawt8inf39/images/image-cp-1753268697756-compressed.png" alt="Elephas — AI writing assistant for macOS for macOS" width="780"/></p>
 
 ---
 
